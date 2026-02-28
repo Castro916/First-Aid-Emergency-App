@@ -1,0 +1,9 @@
+# Node.js
+node_modules/
+.env
+
+# Flutter
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
